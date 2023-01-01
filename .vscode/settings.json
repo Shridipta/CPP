@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "map": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "array": "cpp",
+        "shared_mutex": "cpp",
+        "bitset": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp"
+    }
+}
